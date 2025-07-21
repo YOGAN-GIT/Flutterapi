@@ -1,29 +1,34 @@
-[
+{
+  "transactions": [
     {
-        "transaction_status": "Paid Successfully",
-        "amount": "3120",
-        "date": "11 Sep 2023",
-        "time": "6:59 PM",
-        "UPI_ID": "90063239027@fbpe",
-        "To": "Mr Devrai Rathore",
-        "From": "Gautam Raj"
+      "transaction_status": "Paid Successfully",
+      "amount": "3120",
+      "date": "11 Sep 2023",
+      "time": "6:59 PM",
+      "UPI_type": "Paytm",
+      "UPI_ID": "90063239027@fbpe",
+      "To": "Mr Devrai Rathore",
+      "From": "Gautam Raj"
     },
     {
-        "transaction_status": "Payment Failed",
-        "amount": "500",
-        "date": "05 Aug 2023",
-        "time": "2:15 PM",
-        "UPI_ID": "amit.singh45@okaxis",
-        "To": "Mrs Pooja Verma",
-        "From": "Amit Singh"
+      "transaction_status": "Payment Failed",
+      "amount": "500",
+      "date": "05 Aug 2023",
+      "time": "2:15 PM",
+      "UPI_type": "Google Pay",
+      "UPI_ID": "amit.singh45@okaxis",
+      "To": "Mrs Pooja Verma",
+      "From": "Amit Singh"
     },
     {
-        "transaction_status": "Pending",
-        "amount": "2750",
-        "date": "21 Jun 2023",
-        "time": "11:30 AM",
-        "UPI_ID": "surya.kumar@ibl",
-        "To": "Dr Neha Shah",
-        "From": "Surya Kumar"
+      "transaction_status": "Pending",
+      "amount": "2750",
+      "date": "21 Jun 2023",
+      "time": "11:30 AM",
+      "UPI_type": "PhonePe",
+      "UPI_ID": "surya.kumar@ibl",
+      "To": "Dr Neha Shah",
+      "From": "Surya Kumar"
     }
-]
+  ]
+}
